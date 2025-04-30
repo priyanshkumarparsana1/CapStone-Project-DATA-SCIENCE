@@ -32,45 +32,33 @@ keras, tensorflow (for deep learning)
 yfinance (for data collection)
 
 6. Methodology:
-Data Collection:
+                 Data Collection:
 
 Download historical stock price data (e.g., last 5 years).
 
-Data Preprocessing:
 
-Handle missing values.
-
-Feature engineering: moving averages, RSI, etc.
-
-Train/Test split (e.g., 80/20).
 
 Model Building:
 
-Model 1: Linear Regression
+    Model 1: Linear Regression
 
-Model 2: Random Forest Regressor
+    Model 2: Random Forest Regressor
 
-Model 3: LSTM Neural Network (for sequential patterns)
+    Model 3: LSTM Neural Network (for sequential patterns)
 
 Evaluation Metrics:
 
-MSE (Mean Squared Error)
+     MSE (Mean Squared Error)
 
-RMSE (Root Mean Squared Error)
-
-MAE (Mean Absolute Error)
+     RMSE (Root Mean Squared Error)
+  
+     MAE (Mean Absolute Error)
 
 Visualization:
 
-Plot actual vs predicted prices.
+    Plot actual vs predicted prices.
 
-Feature importance (for Random Forest).
-
-Conclusion:
-
-Which model performed best?
-
-Real-world implications.
+    Feature importance (for Random Forest).
 
 
 
