@@ -74,6 +74,34 @@ Real-world implications.
 
 
 
+# Capstone Project: Stock Price Prediction
+
+## Abstract
+This project aims to predict the future stock prices of Apple Inc. (AAPL) using various machine learning models including Linear Regression, Random Forest, and Long Short-Term Memory (LSTM) networks.
+
+## Problem Statement
+Stock price prediction is critical for investors but is highly challenging due to market volatility. This project attempts to model and predict stock prices using historical data and machine learning techniques.
+
+## Methodology
+- Data collection using Yahoo Finance API.
+- Feature engineering with moving averages and returns.
+- Model training with Linear Regression, Random Forest, and LSTM.
+- Evaluation using MSE, RMSE, and MAE.
+
+## Results
+Random Forest provided the best overall accuracy among traditional methods, while LSTM showed promising results for sequential pattern learning.
+
+## Conclusion
+Machine learning models can provide valuable predictions but are still limited by real-world uncertainties.
+
+## Future Work
+- Include sentiment analysis from news headlines.
+- Use more complex deep learning architectures.
+- Develop a real-time prediction web app.
+
+
+
+
 
 
 
